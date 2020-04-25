@@ -41,7 +41,6 @@ h5 {
 .about-text {
   font-family: 'PT Serif', serif;
   padding: 5px;
-  font-weight: bold;
   font-size: 20px;
   line-height: 2;
 }
@@ -104,8 +103,6 @@ h5 {
 .dotun-img {
   border-radius: 100%;
   margin: auto;
-  padding-top: 20px;
-  padding-bottom: 20px;
 }
 
 .footer {
