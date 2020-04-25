@@ -103,13 +103,13 @@ h5 {
 
 .dotun-img {
   border-radius: 100%;
-  margin: 50px 0 50px 50px;
+  margin: auto;
 }
 
 .footer {
   background-color: darkgrey;
   text-align: center;
-  height: 100px;
+  height: 80px;
   width: 100%;
   margin-bottom: 0;
 }
