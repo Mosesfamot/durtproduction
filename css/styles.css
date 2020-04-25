@@ -28,7 +28,7 @@ h5 {
 .about-row {
   background-color: #dbdbdb;
   text-align: center;
-  margin: 50px 0;
+  padding: 50px 0;
 }
 
 .about-dotun {
@@ -122,7 +122,6 @@ h5 {
 
 .span {
   color: white;
-  font-weight: bold;
 }
 .sponsors {
   text-align: center;
