@@ -104,7 +104,8 @@ hr {
 
 .footer-link {
   color: black;
-  margin: 10px 20px 0 30px;
+  margin: 10px 30px 0 30px;
+  padding: 3px;
 }
 
 .durt-logo {
