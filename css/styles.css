@@ -1,6 +1,5 @@
 /* TAG SELECTORS */
 
-
 h1 {
   font-family: 'Kalam', cursive;
   color: gold;
@@ -29,7 +28,7 @@ h5 {
   background-color: #dbdbdb;
   text-align: center;
   margin-right: 0;
-  margin-left: 0:
+  margin-left: 0;
 }
 
 .about-dotun {
@@ -139,7 +138,7 @@ h5 {
 /* ID SELECTORS */
 
 #top-section {
-  background-image: url ('images/background.jpg');
+  background-image: url('images/background.jpg');
   text-align: center;
 }
 
