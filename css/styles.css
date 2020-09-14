@@ -58,6 +58,7 @@ hr {
 
 .card-content {
   text-align: center;
+  color: #000000;
 }
 
 .card-row {
@@ -106,6 +107,10 @@ hr {
   color: black;
   margin: 10px 30px 0 30px;
   padding: 3px;
+}
+
+.forms {
+  text-align: center;
 }
 
 .durt-logo {
