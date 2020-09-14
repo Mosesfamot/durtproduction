@@ -149,7 +149,7 @@ hr {
 }
 
 .span {
-  color: gold;
+  font-weight: bold;
 }
 .sponsors {
   text-align: center;
