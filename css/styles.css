@@ -119,6 +119,8 @@ hr {
 }
 
 .durtproductions-logo {
+  width: 400px;
+  height: 400px;
   border-radius: 100%;
   margin: auto;
   margin-top: 10px;
